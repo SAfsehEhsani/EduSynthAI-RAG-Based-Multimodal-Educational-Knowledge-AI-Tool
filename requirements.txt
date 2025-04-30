@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+requests
+beautifulsoup4
+langchain # Provides helpful components like text splitters and web loaders
+chromadb # Simple, in-memory vector database
+sentence-transformers # For generating embeddings
+openai # For OpenAI models
+anthropic # For Anthropic (Claude) models
+groq # For Groq models
+huggingface_hub # For accessing Hugging Face models via inference endpoints
+# Add others if you use specific libraries for certain models/searchers
