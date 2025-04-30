@@ -1,0 +1,1 @@
+# EduSynthAI-RAG-Based-Multimodal-Educational-Knowledge-AI-Tool
